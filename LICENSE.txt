@@ -3,8 +3,8 @@ Oculus VR, Inc. Software Development Kit License Agreement
 
 Copyright © 2013 Oculus VR, Inc. All rights reserved.
 
-Human-Readable Summary\*:
--------------------------
+Human-Readable Summary*:
+------------------------
 
 You are Free to:
 
@@ -12,11 +12,11 @@ Use, modify, and distribute the Oculus SDK in source and binary form with your s
 
 With the Following Restrictions:
 
-* Source redistributions must include the whole of the Oculus SDK.
-* Modifications to the Oculus SDK in source or binary form must be shared with Oculus VR.
-* The Oculus SDK may not be used to interface with unapproved commercial virtual reality headsets.
+  * Source redistributions must include the whole of the Oculus SDK.
+  * Modifications to the Oculus SDK in source or binary form must be shared with Oculus VR.
+  * The Oculus SDK may not be used to interface with unapproved commercial virtual reality headsets.
 
-\* - This human-readable Summary is not a license. It is simply a convenient reference for understanding the the full Oculus SDK License Agreement. The Summary is written as a user-friendly interface to the full Oculus SDK License below. This Summary itself has no legal value, and its contents do not appear in the actual license.
+* - This human-readable Summary is not a license. It is simply a convenient reference for understanding the the full Oculus SDK License Agreement. The Summary is written as a user-friendly interface to the full Oculus SDK License below. This Summary itself has no legal value, and its contents do not appear in the actual license.
 
 Full-length Legal Copy:
 -----------------------
