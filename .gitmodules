@@ -1,0 +1,3 @@
+[submodule "OculusSDK-Linux"]
+	path = OculusSDK-Linux
+	url = git://github.com/jdarpinian/OculusSDK-Linux.git
