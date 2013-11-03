@@ -1,3 +1,1 @@
-This repo contains the source code from the Oculus SDK at the top level, and
-the rest of the SDK (Linux version, not required for compilation) in a
-submodule.
+This repo contains the unmodified source code for LibOVR from the Oculus SDK, and all of the rest of the SDK (not required for compilation) as a submodule. The code is licensed under the Oculus VR, Inc. Software Development Kit License Agreement as found in LICENSE.md.
